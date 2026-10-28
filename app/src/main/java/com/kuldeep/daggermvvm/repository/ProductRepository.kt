@@ -1,10 +1,10 @@
-package com.cheezycode.daggermvvm.repository
+package com.kuldeep.daggermvvm.repository
 
 import androidx.lifecycle.LiveData
 import androidx.lifecycle.MutableLiveData
-import com.cheezycode.daggermvvm.db.FakerDB
-import com.cheezycode.daggermvvm.models.Product
-import com.cheezycode.daggermvvm.retrofit.FakerAPI
+import com.kuldeep.daggermvvm.db.FakerDB
+import com.kuldeep.daggermvvm.models.Product
+import com.kuldeep.daggermvvm.retrofit.FakerAPI
 import javax.inject.Inject
 
 class ProductRepository @Inject constructor(private val fakerAPI: FakerAPI, private val fakerDB: FakerDB) {

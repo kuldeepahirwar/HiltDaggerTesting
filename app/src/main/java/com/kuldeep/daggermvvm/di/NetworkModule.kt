@@ -1,7 +1,7 @@
-package com.cheezycode.daggermvvm.di
+package com.kuldeep.daggermvvm.di
 
-import com.cheezycode.daggermvvm.retrofit.FakerAPI
-import com.cheezycode.daggermvvm.utils.Constants
+import com.kuldeep.daggermvvm.retrofit.FakerAPI
+import com.kuldeep.daggermvvm.utils.Constants
 import dagger.Module
 import dagger.Provides
 import dagger.hilt.InstallIn

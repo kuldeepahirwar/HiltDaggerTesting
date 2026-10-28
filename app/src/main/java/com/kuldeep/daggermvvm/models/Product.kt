@@ -1,4 +1,4 @@
-package com.cheezycode.daggermvvm.models
+package com.kuldeep.daggermvvm.models
 
 import androidx.room.Entity
 import androidx.room.PrimaryKey

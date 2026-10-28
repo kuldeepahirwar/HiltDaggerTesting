@@ -1,8 +1,8 @@
-package com.cheezycode.daggermvvm.di
+package com.kuldeep.daggermvvm.di
 
 import android.content.Context
 import androidx.room.Room
-import com.cheezycode.daggermvvm.db.FakerDB
+import com.kuldeep.daggermvvm.db.FakerDB
 import dagger.Module
 import dagger.Provides
 import dagger.hilt.android.qualifiers.ApplicationContext

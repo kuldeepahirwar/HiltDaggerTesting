@@ -1,6 +1,6 @@
-package com.cheezycode.daggermvvm.retrofit
+package com.kuldeep.daggermvvm.retrofit
 
-import com.cheezycode.daggermvvm.models.Product
+import com.kuldeep.daggermvvm.models.Product
 import retrofit2.Response
 import retrofit2.http.GET
 

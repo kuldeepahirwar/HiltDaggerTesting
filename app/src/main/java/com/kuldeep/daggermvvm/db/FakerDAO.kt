@@ -1,10 +1,10 @@
-package com.cheezycode.daggermvvm.db
+package com.kuldeep.daggermvvm.db
 
 import androidx.room.Dao
 import androidx.room.Insert
 import androidx.room.OnConflictStrategy
 import androidx.room.Query
-import com.cheezycode.daggermvvm.models.Product
+import com.kuldeep.daggermvvm.models.Product
 
 @Dao
 interface FakerDAO {

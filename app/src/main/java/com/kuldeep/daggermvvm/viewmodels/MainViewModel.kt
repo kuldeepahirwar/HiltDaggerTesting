@@ -1,10 +1,10 @@
-package com.cheezycode.daggermvvm.viewmodels
+package com.kuldeep.daggermvvm.viewmodels
 
 import androidx.lifecycle.LiveData
 import androidx.lifecycle.ViewModel
 import androidx.lifecycle.viewModelScope
-import com.cheezycode.daggermvvm.models.Product
-import com.cheezycode.daggermvvm.repository.ProductRepository
+import com.kuldeep.daggermvvm.models.Product
+import com.kuldeep.daggermvvm.repository.ProductRepository
 import dagger.hilt.android.lifecycle.HiltViewModel
 import kotlinx.coroutines.delay
 import kotlinx.coroutines.launch

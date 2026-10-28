@@ -1,4 +1,4 @@
-package com.cheezycode.daggermvvm
+package com.kuldeep.daggermvvm
 
 import android.app.Application
 import android.content.Context
